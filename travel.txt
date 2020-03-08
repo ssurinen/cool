@@ -1,2 +1,4 @@
 packing list
 shoes
+Bags
+Shoes
